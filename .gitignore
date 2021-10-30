@@ -1,0 +1,6 @@
+
+NETCore/bin/
+NETCore/obj/
+NETCore/Migrations/
+.vs/
+NETCore/Client/client-app/node_modules/
